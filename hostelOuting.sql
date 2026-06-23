@@ -1,0 +1,1 @@
+SELECT * FROM outing_requests;
