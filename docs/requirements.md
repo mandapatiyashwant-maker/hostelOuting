@@ -35,3 +35,4 @@ Student applies outing
 ### Admin
 - Reports
 - User management
+http://localhost:5173/
